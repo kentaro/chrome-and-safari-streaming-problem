@@ -37,7 +37,7 @@ __END__
     <h2>How to reproduce</h2>
     <ol>
       <li>Visit <a href="/stream">/stream</a> by Chrome/Safari</li>
-      <li>Dispatch GET request to /broadcast/<code>${some_message}</code>. <code>${some_message}</code> is something arbitrary string. It'll treaded as parameter in this app.</li>
+      <li>Dispatch GET request to /broadcast/<code>${some_message}</code>. <code>${some_message}</code> is something arbitrary string. It'll be treaded as parameter in this app.</li>
       <li>With Firefox, the message above will appear immediately. On the other hand, with Chrome/Safari, it dosn't</li>
     </ol>
     <p>I don't know (1) it's correct behavior or not against some HTTP spec. (2) when the browsers started this behavior.</p>
