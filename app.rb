@@ -43,6 +43,6 @@ __END__
     <p>I don't know (1) it's correct behavior or not against some HTTP spec. (2) when the browsers started this behavior.</p>
 
     <h2>Source</h2>
-    <a href="http://github.com/kentaro/chrome-and-safari-streaming-problem">http://github.com/kentaro/chrome-streaming-problem</a>
+    <a href="http://github.com/kentaro/chrome-and-safari-streaming-problem">http://github.com/kentaro/chrome-and-sarafi-streaming-problem</a>
   </body>
 </html>
